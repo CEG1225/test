@@ -1,0 +1,37 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.53.81.150,2083,true,ARN,Europe,Stockholm,199 ms,7448 kB/s
+35.167.93.200,443,true,SEA,North America,Seattle,206 ms,7401 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,199 ms,7100 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,186 ms,6884 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,176 ms,6829 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,197 ms,6790 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,104 ms,6581 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,196 ms,6418 kB/s
+204.110.221.138,80,true,SEA,North America,Seattle,196 ms,6174 kB/s
+204.110.221.251,80,true,SEA,North America,Seattle,219 ms,5573 kB/s
+204.110.221.231,80,true,SEA,North America,Seattle,204 ms,5503 kB/s
+204.110.223.255,80,true,CMH,North America,Columbus,227 ms,5397 kB/s
+204.110.221.69,80,true,SEA,North America,Seattle,199 ms,5143 kB/s
+3.98.54.22,8443,true,YUL,North America,Montréal,249 ms,5124 kB/s
+15.156.203.151,8443,true,YUL,North America,Montréal,248 ms,4199 kB/s
+13.51.55.184,2053,true,ARN,Europe,Stockholm,186 ms,3698 kB/s
+204.110.221.112,80,true,SEA,North America,Seattle,244 ms,3452 kB/s
+13.125.218.78,443,true,ICN,Asia Pacific,Seoul,237 ms,3410 kB/s
+204.110.221.40,80,true,SEA,North America,Seattle,218 ms,2776 kB/s
+15.156.17.176,8443,true,YUL,North America,Montréal,252 ms,1072 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,200 ms,924 kB/s
+13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,305 ms,748 kB/s
+204.110.221.223,80,true,SEA,North America,Seattle,228 ms,556 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,285 ms,483 kB/s
+18.135.188.86,443,true,LHR,Europe,London,181 ms,134 kB/s
+44.227.22.10,443,true,SEA,North America,Seattle,205 ms,115 kB/s
+204.110.221.28,80,true,SEA,North America,Seattle,198 ms,109 kB/s
+18.189.94.250,443,true,ORD,North America,Chicago,230 ms,96 kB/s
+3.98.73.243,443,true,YUL,North America,Montréal,252 ms,89 kB/s
+3.99.106.179,443,true,YUL,North America,Montréal,264 ms,89 kB/s
+15.157.7.168,443,true,YUL,North America,Montréal,253 ms,83 kB/s
+204.110.220.135,80,true,SEA,North America,Seattle,201 ms,70 kB/s
+204.110.220.169,80,true,SEA,North America,Seattle,207 ms,57 kB/s
+50.112.166.63,443,true,SEA,North America,Seattle,201 ms,54 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,190 ms,11 kB/s
+13.40.128.14,8443,true,LHR,Europe,London,195 ms,0 kB/s
