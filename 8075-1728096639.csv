@@ -1,0 +1,82 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.240.254.247,8443,443,true,ARN,Europe,Stockholm,278,11.85
+20.240.254.247,2053,443,true,ARN,Europe,Stockholm,239,11.83
+20.217.216.51,2053,443,true,VIE,Europe,Vienna,420,11.77
+20.215.241.164,8443,443,true,TXL,Europe,Berlin,328,11.69
+20.91.225.232,2053,443,true,ARN,Europe,Stockholm,173,11.67
+4.242.220.94,8080,443,true,SJC,North America,San Jose,185,11.58
+20.91.225.232,8443,443,true,ARN,Europe,Stockholm,346,11.54
+4.219.15.140,8443,443,true,CPH,Europe,Copenhagen,184,11.49
+172.179.181.196,443,443,true,SEA,North America,Seattle,361,11.45
+20.217.216.51,8443,443,true,VIE,Europe,Vienna,338,11.41
+4.219.15.140,2053,443,true,CPH,Europe,Copenhagen,188,11.31
+20.100.9.147,443,443,true,CPH,Europe,Copenhagen,447,11.11
+20.33.30.36,2083,443,true,LAX,North America,Los Angeles,353,11.09
+20.33.18.23,443,443,true,MXP,Europe,Milan,317,10.69
+20.33.62.19,2083,443,true,LHR,Europe,London,160,10.52
+4.221.60.243,2053,443,true,JNB,Africa,Johannesburg,251,10.46
+4.221.60.243,8443,443,true,JNB,Africa,Johannesburg,226,10.24
+20.127.201.36,443,443,true,IAD,North America,Ashburn,343,9.82
+158.23.169.65,8443,443,true,DFW,North America,Dallas,249,9.41
+20.62.202.159,443,443,true,IAD,North America,Ashburn,579,9.38
+48.217.34.120,443,443,true,EWR,North America,Newark,672,9.36
+158.23.169.65,2053,443,true,DFW,North America,Dallas,253,9.27
+20.25.205.37,2053,443,true,ORD,North America,Chicago,572,8.64
+74.249.233.213,443,443,true,ORD,North America,Chicago,309,8.48
+4.172.225.82,8443,443,true,YYZ,North America,Toronto,241,8.42
+158.23.81.224,2053,443,true,DFW,North America,Dallas,364,8.37
+158.23.81.224,8443,443,true,DFW,North America,Dallas,340,8.35
+20.36.131.211,443,443,true,IAD,North America,Ashburn,274,8.16
+20.228.249.211,2053,443,true,EWR,North America,Newark,280,8.13
+20.220.29.122,8443,443,true,YYZ,North America,Toronto,509,8.02
+20.220.29.122,2053,443,true,YYZ,North America,Toronto,478,7.95
+20.151.60.161,8443,443,true,YYZ,North America,Toronto,217,7.90
+20.151.238.192,8443,443,true,YYZ,North America,Toronto,281,7.84
+172.177.248.69,8443,443,true,IAD,North America,Ashburn,415,7.79
+172.191.74.198,443,443,true,IAD,North America,Ashburn,369,7.74
+4.172.225.98,8443,443,true,YYZ,North America,Toronto,354,7.73
+20.228.249.211,8443,443,true,EWR,North America,Newark,304,7.62
+20.109.23.42,443,443,true,IAD,North America,Ashburn,344,7.58
+20.84.117.28,443,443,true,IAD,North America,Ashburn,419,7.58
+40.123.42.160,8443,443,true,IAD,North America,Ashburn,316,7.51
+20.221.32.145,443,443,true,ORD,North America,Chicago,390,7.49
+172.212.108.47,443,443,true,EWR,North America,Newark,264,7.44
+40.123.41.147,8443,443,true,IAD,North America,Ashburn,350,7.27
+172.174.249.255,443,443,true,EWR,North America,Newark,355,7.13
+40.79.73.114,8443,443,true,IAD,North America,Ashburn,306,7.00
+172.200.2.241,443,443,true,IAD,North America,Ashburn,506,6.96
+4.248.47.209,8443,443,true,YUL,North America,Montréal,719,6.79
+20.151.63.165,8443,443,true,YYZ,North America,Toronto,279,6.75
+172.208.44.21,443,443,true,IAD,North America,Ashburn,252,6.50
+40.123.47.225,8443,443,true,IAD,North America,Ashburn,374,6.49
+40.123.47.252,8443,443,true,IAD,North America,Ashburn,477,6.24
+4.239.248.70,8443,443,true,YYZ,North America,Toronto,444,5.75
+191.235.86.71,8443,443,true,GRU,South America,São Paulo,625,4.07
+172.201.76.19,443,443,true,AMS,Europe,Amsterdam,458,0.69
+20.220.204.217,443,443,true,YYZ,North America,Toronto,399,0.08
+20.204.43.57,80,443,false,BOM,Asia Pacific,Mumbai,78,0.06
+137.116.251.154,80,443,false,DUB,Europe,Dublin,160,0.02
+52.226.76.91,80,443,false,IAD,North America,Ashburn,222,0.02
+13.90.157.110,80,443,false,EWR,North America,Newark,223,0.02
+20.48.5.180,80,80,false,NRT,Asia Pacific,Tokyo,76,0.00
+40.66.63.160,80,80,false,CDG,Europe,Paris,146,0.00
+51.140.191.188,2086,2086,false,LHR,Europe,London,150,0.00
+51.140.154.44,2086,2086,false,LHR,Europe,London,150,0.00
+20.58.24.221,2086,2086,false,LHR,Europe,London,154,0.00
+51.143.162.160,80,80,false,LHR,Europe,London,155,0.00
+104.40.244.228,80,80,false,AMS,Europe,Amsterdam,155,0.00
+172.179.181.196,80,80,false,SEA,North America,Seattle,160,0.00
+51.145.10.26,80,8080,false,LHR,Europe,London,161,0.00
+51.140.44.206,2086,2086,false,LHR,Europe,London,161,0.00
+20.64.237.37,80,80,false,SEA,North America,Seattle,162,0.00
+13.95.193.125,80,443,false,AMS,Europe,Amsterdam,172,0.00
+51.141.162.228,80,80,false,SEA,North America,Seattle,188,0.00
+40.76.252.162,80,80,false,IAD,North America,Ashburn,221,0.00
+172.191.74.198,8080,80,false,EWR,North America,Newark,222,0.00
+4.255.56.138,80,80,false,IAD,North America,Ashburn,233,0.00
+4.255.56.137,80,80,false,IAD,North America,Ashburn,234,0.00
+172.178.124.168,80,80,false,IAD,North America,Ashburn,241,0.00
+172.171.174.174,80,80,false,EWR,North America,Newark,252,0.00
+20.119.73.200,80,80,false,IAD,North America,Ashburn,270,0.00
+172.174.249.255,80,80,false,IAD,North America,Ashburn,293,0.00
+172.210.57.202,80,80,false,IAD,North America,Ashburn,571,0.00
