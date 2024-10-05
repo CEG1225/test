@@ -1,0 +1,22 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.209.166.73,80,false,ICN,Asia Pacific,Seoul,237 ms,80234 kB/s
+18.185.254.189,80,false,FRA,Europe,Frankfurt,165 ms,8514 kB/s
+18.159.105.97,80,false,FRA,Europe,Frankfurt,165 ms,4784 kB/s
+51.17.192.69,443,false,MRS,Europe,Marseille,288 ms,4756 kB/s
+3.68.31.54,80,false,FRA,Europe,Frankfurt,174 ms,2122 kB/s
+51.17.192.69,80,false,MRS,Europe,Marseille,233 ms,1662 kB/s
+52.53.226.228,80,false,SJC,North America,San Jose,184 ms,990 kB/s
+18.156.209.101,80,false,FRA,Europe,Frankfurt,170 ms,391 kB/s
+3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,338 ms,302 kB/s
+3.66.115.225,80,false,FRA,Europe,Frankfurt,168 ms,300 kB/s
+18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,80 ms,160 kB/s
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,84 ms,156 kB/s
+204.110.223.6,80,false,CMH,North America,Columbus,256 ms,0 kB/s
+3.101.110.90,80,false,SJC,North America,San Jose,193 ms,0 kB/s
+204.110.221.231,80,false,SEA,North America,Seattle,205 ms,0 kB/s
+204.110.221.20,80,false,SEA,North America,Seattle,209 ms,0 kB/s
+204.110.221.1,80,false,SEA,North America,Seattle,208 ms,0 kB/s
+35.167.93.200,443,false,SEA,North America,Seattle,208 ms,0 kB/s
+204.110.221.115,80,false,SEA,North America,Seattle,199 ms,0 kB/s
+204.110.220.189,80,false,SEA,North America,Seattle,203 ms,0 kB/s
+204.110.223.83,80,false,CMH,North America,Columbus,255 ms,0 kB/s
