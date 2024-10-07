@@ -1,0 +1,5 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+165.1.76.23,80,false,SJC,North America,San Jose,1 ms,4881 kB/s
+89.168.122.44,80,false,FRA,Europe,Frankfurt,1 ms,4454 kB/s
+146.56.133.140,2083,false,ICN,Asia Pacific,Seoul,0 ms,2708 kB/s
+146.56.133.140,2096,false,ICN,Asia Pacific,Seoul,1 ms,2680 kB/s
