@@ -1,0 +1,100 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+34.22.142.117,443,443,true,CDG,Europe,Paris,356,7.37
+34.91.136.173,443,443,true,AMS,Europe,Amsterdam,411,7.35
+34.90.238.89,443,443,true,AMS,Europe,Amsterdam,332,7.27
+34.22.142.117,443,443,true,CDG,Europe,Paris,553,7.20
+34.147.130.63,443,443,true,LHR,Europe,London,352,7.15
+34.90.238.89,443,443,true,AMS,Europe,Amsterdam,382,6.94
+34.147.130.63,443,443,true,LHR,Europe,London,492,6.81
+34.175.202.195,443,443,true,MAD,Europe,Madrid,358,6.59
+34.88.33.107,443,443,true,FRA,Europe,Frankfurt,490,6.21
+34.88.33.107,443,443,true,FRA,Europe,Frankfurt,249,6.16
+34.88.33.107,443,443,true,FRA,Europe,Frankfurt,444,6.15
+35.228.36.82,443,443,true,CPH,Europe,Copenhagen,397,5.96
+34.105.189.25,443,443,true,LHR,Europe,London,293,5.10
+34.105.140.105,443,443,true,LHR,Europe,London,287,4.85
+34.147.231.33,443,443,true,LHR,Europe,London,451,4.84
+35.200.238.235,443,443,true,BOM,Asia Pacific,Mumbai,272,0.47
+35.200.238.235,443,443,true,BOM,Asia Pacific,Mumbai,499,0.39
+34.142.133.116,443,80,false,SIN,Asia Pacific,Singapore,30,0.00
+34.142.133.116,80,80,false,SIN,Asia Pacific,Singapore,38,0.00
+34.49.1.210,80,80,false,SIN,Asia Pacific,Singapore,57,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,71,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,77,0.00
+34.117.254.68,80,80,false,SIN,Asia Pacific,Singapore,79,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,81,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,82,0.00
+34.87.149.79,80,80,false,SIN,Asia Pacific,Singapore,105,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,112,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,120,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,131,0.00
+34.107.218.117,8080,80,false,SEA,North America,Seattle,135,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,135,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,144,0.00
+34.83.110.115,80,80,false,SEA,North America,Seattle,156,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,157,0.00
+34.83.110.115,80,80,false,SEA,North America,Seattle,157,0.00
+34.82.76.253,80,80,false,SEA,North America,Seattle,157,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,158,0.00
+34.105.49.234,80,80,false,SEA,North America,Seattle,159,0.00
+34.82.76.253,80,80,false,SEA,North America,Seattle,159,0.00
+34.147.101.117,2086,80,false,AMS,Europe,Amsterdam,162,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,163,0.00
+34.141.248.249,2095,80,false,AMS,Europe,Amsterdam,164,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,167,0.00
+34.141.221.33,2082,80,false,AMS,Europe,Amsterdam,167,0.00
+34.147.101.117,2087,80,false,SYD,Oceania,Sydney,168,0.00
+34.147.101.117,2052,80,false,AMS,Europe,Amsterdam,168,0.00
+34.19.6.92,80,80,false,SEA,North America,Seattle,172,0.00
+34.141.221.33,2087,80,false,AMS,Europe,Amsterdam,173,0.00
+34.141.221.33,2096,80,false,AMS,Europe,Amsterdam,178,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,178,0.00
+34.83.110.115,80,80,false,SEA,North America,Seattle,178,0.00
+34.87.149.79,80,80,false,SIN,Asia Pacific,Singapore,181,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,182,0.00
+34.147.82.194,2053,80,false,AMS,Europe,Amsterdam,183,0.00
+35.244.133.3,80,80,false,SIN,Asia Pacific,Singapore,184,0.00
+34.19.6.92,80,80,false,SEA,North America,Seattle,185,0.00
+34.141.248.249,2082,80,false,AMS,Europe,Amsterdam,186,0.00
+34.147.101.117,2096,80,false,AMS,Europe,Amsterdam,189,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,193,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,194,0.00
+34.147.101.117,2082,80,false,AMS,Europe,Amsterdam,194,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,195,0.00
+34.29.53.24,8080,80,false,ORD,North America,Chicago,196,0.00
+34.105.49.234,80,80,false,SEA,North America,Seattle,197,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,197,0.00
+34.141.221.33,2053,80,false,AMS,Europe,Amsterdam,198,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,198,0.00
+34.141.248.249,2087,80,false,AMS,Europe,Amsterdam,205,0.00
+35.188.87.85,80,8080,false,ORD,North America,Chicago,205,0.00
+34.141.248.249,2086,80,false,AMS,Europe,Amsterdam,206,0.00
+34.87.149.79,80,80,false,SIN,Asia Pacific,Singapore,209,0.00
+34.141.221.33,2086,80,false,AMS,Europe,Amsterdam,211,0.00
+34.141.221.33,2095,80,false,AMS,Europe,Amsterdam,212,0.00
+35.232.39.116,80,80,false,DFW,North America,Dallas,213,0.00
+34.141.221.33,2052,80,false,AMS,Europe,Amsterdam,215,0.00
+34.147.101.117,2083,80,false,AMS,Europe,Amsterdam,215,0.00
+34.83.110.115,80,80,false,SEA,North America,Seattle,215,0.00
+34.87.149.79,80,80,false,SIN,Asia Pacific,Singapore,219,0.00
+34.105.49.234,80,80,false,SEA,North America,Seattle,223,0.00
+34.74.105.17,80,8080,false,ATL,North America,Atlanta,224,0.00
+34.147.101.117,2053,80,false,AMS,Europe,Amsterdam,238,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,239,0.00
+34.141.248.249,2053,80,false,AMS,Europe,Amsterdam,241,0.00
+34.147.101.117,2095,80,false,AMS,Europe,Amsterdam,243,0.00
+34.29.53.24,8080,80,false,ORD,North America,Chicago,244,0.00
+34.74.105.17,80,8080,false,ATL,North America,Atlanta,251,0.00
+34.82.76.253,80,80,false,SEA,North America,Seattle,261,0.00
+34.105.3.218,443,443,true,SEA,North America,Seattle,261,0.00
+34.141.248.249,2096,80,false,AMS,Europe,Amsterdam,266,0.00
+34.141.248.249,2052,80,false,AMS,Europe,Amsterdam,279,0.00
+34.141.248.249,2083,80,false,AMS,Europe,Amsterdam,282,0.00
+35.237.154.5,80,80,false,ATL,North America,Atlanta,285,0.00
+35.247.124.181,80,80,false,SEA,North America,Seattle,315,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,322,0.00
+34.105.3.218,443,443,true,SEA,North America,Seattle,323,0.00
+34.141.221.33,2083,80,false,AMS,Europe,Amsterdam,331,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,350,0.00
+35.197.89.213,80,80,false,SEA,North America,Seattle,412,0.00
+34.82.76.253,80,80,false,SEA,North America,Seattle,656,0.00
