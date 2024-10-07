@@ -1,6 +1,6 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-35.247.124.181,80,false,SEA,North America,Seattle,6 ms,6212 kB/s
-34.105.49.234,80,false,SEA,North America,Seattle,16 ms,5769 kB/s
-34.82.76.253,80,false,SEA,North America,Seattle,4 ms,5634 kB/s
-34.117.254.68,80,false,TPE,Asia Pacific,Taipei,1 ms,4888 kB/s
-34.93.79.152,80,false,BOM,Asia Pacific,Mumbai,7 ms,9 kB/s
+34.160.118.77,80,false,LAX,North America,Los Angeles,190 ms,5515 kB/s
+35.237.154.5,80,false,ATL,North America,Atlanta,269 ms,3557 kB/s
+35.187.229.127,80,false,SIN,Asia Pacific,Singapore,99 ms,1268 kB/s
+35.232.39.116,80,false,DFW,North America,Dallas,243 ms,67 kB/s
+35.188.87.85,80,false,ORD,North America,Chicago,237 ms,0 kB/s
