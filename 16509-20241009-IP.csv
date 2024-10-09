@@ -1,0 +1,32 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.50.173.22,8443,true,ARN,Europe,Stockholm,250 ms,7985 kB/s
+13.51.55.184,2053,true,ARN,Europe,Stockholm,198 ms,7931 kB/s
+204.110.221.112,80,true,SEA,North America,Seattle,203 ms,7688 kB/s
+204.110.221.231,80,true,SEA,North America,Seattle,197 ms,6894 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,181 ms,6714 kB/s
+15.156.203.151,8443,true,YUL,North America,Montréal,275 ms,5947 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,188 ms,5831 kB/s
+204.110.221.174,80,true,SEA,North America,Seattle,208 ms,5781 kB/s
+204.110.221.35,80,true,SEA,North America,Seattle,239 ms,5245 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,184 ms,4658 kB/s
+204.110.221.1,80,true,SEA,North America,Seattle,211 ms,4601 kB/s
+204.110.221.61,80,true,SEA,North America,Seattle,206 ms,4456 kB/s
+204.110.221.36,80,true,SEA,North America,Seattle,218 ms,3983 kB/s
+13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,306 ms,3870 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,207 ms,3478 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,176 ms,3359 kB/s
+15.156.17.176,8443,true,YUL,North America,Montréal,267 ms,3322 kB/s
+204.110.223.83,80,true,ORD,North America,Chicago,229 ms,3184 kB/s
+44.227.22.10,443,true,SEA,North America,Seattle,221 ms,2959 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,183 ms,2831 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,304 ms,2578 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,99 ms,684 kB/s
+18.135.188.86,443,true,LHR,Europe,London,191 ms,380 kB/s
+18.189.94.250,443,true,CMH,North America,Columbus,233 ms,339 kB/s
+13.125.218.78,443,true,ICN,Asia Pacific,Seoul,237 ms,307 kB/s
+204.110.220.135,80,true,SEA,North America,Seattle,204 ms,249 kB/s
+50.112.166.63,443,true,SEA,North America,Seattle,207 ms,108 kB/s
+3.98.73.243,443,true,YUL,North America,Montréal,252 ms,86 kB/s
+3.99.106.179,443,true,YUL,North America,Montréal,253 ms,83 kB/s
+15.157.7.168,443,true,YUL,North America,Montréal,254 ms,64 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,187 ms,15 kB/s
