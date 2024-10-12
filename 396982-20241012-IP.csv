@@ -1,0 +1,6 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+35.187.229.127,80,false,SIN,Asia Pacific,Singapore,106 ms,19803 kB/s
+34.74.105.17,80,false,ATL,North America,Atlanta,268 ms,4239 kB/s
+35.188.87.85,80,false,ORD,North America,Chicago,240 ms,792 kB/s
+34.160.118.77,80,false,LAX,North America,Los Angeles,580 ms,117 kB/s
+35.232.39.116,80,false,DFW,North America,Dallas,247 ms,60 kB/s
