@@ -1,6 +1,6 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-125.208.102.111,40006,false,ICN,Asia Pacific,Seoul,72 ms,7654 kB/s
-117.123.207.117,40006,false,ICN,Asia Pacific,Seoul,78 ms,5888 kB/s
-117.123.31.2,40006,false,ICN,Asia Pacific,Seoul,85 ms,5339 kB/s
-117.123.31.2,40005,false,ICN,Asia Pacific,Seoul,85 ms,3782 kB/s
-124.80.43.124,13186,false,NRT,Asia Pacific,Tokyo,131 ms,1549 kB/s
+125.208.102.111,40006,false,ICN,Asia Pacific,Seoul,89 ms,7172 kB/s
+117.123.207.117,40006,false,ICN,Asia Pacific,Seoul,74 ms,5921 kB/s
+117.123.31.2,40006,false,ICN,Asia Pacific,Seoul,90 ms,4682 kB/s
+117.123.31.2,40005,false,ICN,Asia Pacific,Seoul,81 ms,4227 kB/s
+124.80.43.124,13186,false,KIX,Asia Pacific,Osaka,151 ms,1517 kB/s
