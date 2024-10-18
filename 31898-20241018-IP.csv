@@ -1,0 +1,3 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+89.168.122.44,80,false,FRA,Europe,Frankfurt,303 ms,2344 kB/s
+164.152.34.166,80,false,GRU,South America,São Paulo,363 ms,0 kB/s
