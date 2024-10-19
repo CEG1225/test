@@ -1,3 +1,33 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-89.168.122.44,80,false,FRA,Europe,Frankfurt,312 ms,2214 kB/s
-164.152.34.166,80,false,GRU,South America,São Paulo,365 ms,141 kB/s
+152.70.155.147,2096,true,LAX,North America,Los Angeles,242 ms,3692 kB/s
+164.152.26.70,2052,true,ORD,North America,Chicago,252 ms,2468 kB/s
+152.70.155.147,2083,true,LAX,North America,Los Angeles,245 ms,2253 kB/s
+140.238.88.47,443,true,LHR,Europe,London,243 ms,1942 kB/s
+164.152.26.70,2086,true,ORD,North America,Chicago,254 ms,1884 kB/s
+141.144.193.68,443,true,FRA,Europe,Frankfurt,241 ms,1762 kB/s
+141.147.61.116,8443,true,FRA,Europe,Frankfurt,357 ms,1222 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,289 ms,899 kB/s
+40.233.70.7,8443,true,YYZ,North America,Toronto,242 ms,703 kB/s
+152.70.155.147,2087,true,LAX,North America,Los Angeles,244 ms,349 kB/s
+141.148.242.113,8443,true,AMS,Europe,Amsterdam,307 ms,348 kB/s
+158.178.206.197,8443,true,CDG,Europe,Paris,254 ms,233 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,295 ms,217 kB/s
+130.61.107.238,8443,true,FRA,Europe,Frankfurt,318 ms,201 kB/s
+89.168.68.57,8443,true,FRA,Europe,Frankfurt,322 ms,182 kB/s
+158.178.153.80,2096,true,AMS,Europe,Amsterdam,316 ms,137 kB/s
+89.168.43.31,8443,true,CDG,Europe,Paris,243 ms,118 kB/s
+89.168.112.118,8443,true,FRA,Europe,Frankfurt,300 ms,99 kB/s
+146.235.59.153,2053,true,GRU,South America,São Paulo,366 ms,93 kB/s
+168.138.50.249,443,true,KIX,Asia Pacific,Osaka,209 ms,51 kB/s
+132.226.163.224,2053,true,GRU,South America,São Paulo,377 ms,42 kB/s
+132.145.54.84,2053,true,LHR,Europe,London,244 ms,41 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,248 ms,40 kB/s
+132.226.163.224,8443,true,GRU,South America,São Paulo,378 ms,30 kB/s
+89.168.68.57,2053,true,FRA,Europe,Frankfurt,311 ms,28 kB/s
+158.179.207.182,2053,true,ARN,Europe,Stockholm,260 ms,13 kB/s
+158.179.207.182,8443,true,ARN,Europe,Stockholm,264 ms,0 kB/s
+132.145.127.203,2053,true,NRT,Asia Pacific,Tokyo,139 ms,0 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,173 ms,0 kB/s
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,95 ms,0 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,261 ms,0 kB/s
+140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,151 ms,0 kB/s
