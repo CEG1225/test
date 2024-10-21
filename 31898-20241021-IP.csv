@@ -1,4 +1,23 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-89.168.122.44,80,false,FRA,Europe,Frankfurt,306 ms,2377 kB/s
-130.61.171.71,80,false,FRA,Europe,Frankfurt,306 ms,2127 kB/s
-164.152.34.166,80,false,GRU,South America,São Paulo,382 ms,17 kB/s
+152.70.155.147,2083,true,LAX,North America,Los Angeles,252 ms,5766 kB/s
+152.70.155.147,2096,true,LAX,North America,Los Angeles,254 ms,5163 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,298 ms,4013 kB/s
+158.179.207.182,2053,true,ARN,Europe,Stockholm,264 ms,3103 kB/s
+158.179.207.182,8443,true,ARN,Europe,Stockholm,265 ms,2944 kB/s
+158.178.206.197,8443,true,CDG,Europe,Paris,259 ms,2626 kB/s
+89.168.43.31,8443,true,CDG,Europe,Paris,253 ms,2599 kB/s
+89.168.112.118,8443,true,FRA,Europe,Frankfurt,307 ms,1816 kB/s
+158.178.153.80,2096,true,AMS,Europe,Amsterdam,304 ms,1772 kB/s
+158.178.206.197,2053,true,CDG,Europe,Paris,256 ms,1650 kB/s
+130.61.107.238,8443,true,FRA,Europe,Frankfurt,314 ms,1612 kB/s
+158.180.49.11,2053,true,FRA,Europe,Frankfurt,306 ms,1177 kB/s
+164.152.26.70,2052,true,ORD,North America,Chicago,257 ms,889 kB/s
+89.168.43.31,2053,true,CDG,Europe,Paris,252 ms,544 kB/s
+89.168.68.57,2053,true,FRA,Europe,Frankfurt,307 ms,454 kB/s
+40.233.70.7,8443,true,YYZ,North America,Toronto,244 ms,364 kB/s
+89.168.68.57,8443,true,FRA,Europe,Frankfurt,306 ms,361 kB/s
+158.180.49.11,8443,true,FRA,Europe,Frankfurt,308 ms,336 kB/s
+146.235.59.153,2053,true,GRU,South America,São Paulo,379 ms,34 kB/s
+132.226.163.224,8443,true,GRU,South America,São Paulo,383 ms,21 kB/s
+132.226.163.224,2053,true,GRU,South America,São Paulo,389 ms,16 kB/s
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,88 ms,0 kB/s
