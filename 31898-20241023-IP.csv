@@ -1,23 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-158.178.206.197,8443,true,CDG,Europe,Paris,254 ms,4179 kB/s
-89.168.83.143,8443,true,FRA,Europe,Frankfurt,304 ms,4021 kB/s
-89.168.43.31,2053,true,CDG,Europe,Paris,254 ms,4012 kB/s
-89.168.43.31,8443,true,CDG,Europe,Paris,255 ms,3996 kB/s
-89.168.68.57,2053,true,FRA,Europe,Frankfurt,309 ms,3353 kB/s
-89.168.112.118,8443,true,FRA,Europe,Frankfurt,308 ms,3282 kB/s
-158.178.153.80,2096,true,AMS,Europe,Amsterdam,302 ms,2726 kB/s
-130.61.107.238,8443,true,FRA,Europe,Frankfurt,305 ms,2665 kB/s
-158.180.49.11,2053,true,FRA,Europe,Frankfurt,301 ms,1494 kB/s
-158.178.206.197,2053,true,CDG,Europe,Paris,254 ms,371 kB/s
-89.168.68.57,8443,true,FRA,Europe,Frankfurt,302 ms,304 kB/s
-158.180.49.11,8443,true,FRA,Europe,Frankfurt,300 ms,291 kB/s
-40.233.70.7,8443,true,YYZ,North America,Toronto,245 ms,230 kB/s
-164.152.26.70,2052,true,ORD,North America,Chicago,260 ms,220 kB/s
-158.101.15.48,443,true,LAX,North America,Los Angeles,255 ms,214 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,195 ms,195 kB/s
-146.235.59.153,8443,true,GRU,South America,São Paulo,378 ms,144 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,250 ms,128 kB/s
-146.235.59.153,2053,true,GRU,South America,São Paulo,376 ms,80 kB/s
-132.226.163.224,8443,true,GRU,South America,São Paulo,385 ms,70 kB/s
-158.179.207.182,2053,true,ARN,Europe,Stockholm,316 ms,41 kB/s
-158.179.207.182,8443,true,ARN,Europe,Stockholm,313 ms,24 kB/s
+89.168.122.44,80,false,FRA,Europe,Frankfurt,269 ms,2283 kB/s
+130.61.171.71,80,false,FRA,Europe,Frankfurt,307 ms,2020 kB/s
+164.152.34.166,80,false,GRU,South America,São Paulo,376 ms,15 kB/s
