@@ -1,0 +1,20 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.209.166.73,80,false,ICN,Asia Pacific,Seoul,230 ms,19107 kB/s
+3.68.31.54,80,false,FRA,Europe,Frankfurt,173 ms,10889 kB/s
+3.66.115.225,80,false,FRA,Europe,Frankfurt,173 ms,10518 kB/s
+18.185.254.189,80,false,FRA,Europe,Frankfurt,164 ms,9927 kB/s
+18.159.105.97,80,false,FRA,Europe,Frankfurt,165 ms,6357 kB/s
+51.17.192.69,443,false,MXP,Europe,Milan,230 ms,2972 kB/s
+18.156.209.101,80,false,FRA,Europe,Frankfurt,178 ms,2816 kB/s
+51.17.192.69,80,false,MXP,Europe,Milan,226 ms,487 kB/s
+18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,79 ms,162 kB/s
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,80 ms,142 kB/s
+3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,300 ms,75 kB/s
+3.141.95.66,80,false,CMH,North America,Columbus,246 ms,0 kB/s
+35.167.93.200,443,false,SEA,North America,Seattle,198 ms,0 kB/s
+204.110.221.179,80,false,SEA,North America,Seattle,198 ms,0 kB/s
+3.101.110.90,80,false,SJC,North America,San Jose,197 ms,0 kB/s
+204.110.223.177,80,false,IAD,North America,Ashburn,247 ms,0 kB/s
+3.6.136.68,80,false,BOM,Asia Pacific,Mumbai,303 ms,0 kB/s
+204.110.223.6,80,false,IAD,North America,Ashburn,252 ms,0 kB/s
+204.110.223.86,80,false,IAD,North America,Ashburn,238 ms,0 kB/s
