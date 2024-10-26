@@ -1,0 +1,20 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.209.166.73,80,false,ICN,Asia Pacific,Seoul,238 ms,13088 kB/s
+3.66.115.225,80,false,FRA,Europe,Frankfurt,162 ms,12506 kB/s
+18.185.254.189,80,false,FRA,Europe,Frankfurt,152 ms,10078 kB/s
+18.159.105.97,80,false,FRA,Europe,Frankfurt,171 ms,9710 kB/s
+18.156.209.101,80,false,FRA,Europe,Frankfurt,176 ms,9624 kB/s
+3.68.31.54,80,false,FRA,Europe,Frankfurt,169 ms,6010 kB/s
+3.141.95.66,80,false,CMH,North America,Columbus,247 ms,2662 kB/s
+51.17.192.69,443,false,MRS,Europe,Marseille,223 ms,634 kB/s
+51.17.192.69,80,false,MXP,Europe,Milan,231 ms,480 kB/s
+3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,302 ms,409 kB/s
+18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,85 ms,160 kB/s
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,80 ms,130 kB/s
+35.167.93.200,443,false,SEA,North America,Seattle,229 ms,0 kB/s
+3.101.110.90,80,false,SJC,North America,San Jose,174 ms,0 kB/s
+204.110.223.229,80,false,CMH,North America,Columbus,229 ms,0 kB/s
+204.110.223.219,80,false,IAD,North America,Ashburn,232 ms,0 kB/s
+204.110.221.135,80,false,SEA,North America,Seattle,228 ms,0 kB/s
+204.110.221.138,80,false,SEA,North America,Seattle,222 ms,0 kB/s
+204.110.223.229,443,false,CMH,North America,Columbus,241 ms,0 kB/s
