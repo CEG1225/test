@@ -1,0 +1,10 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+193.123.233.143,2096,false,ICN,Asia Pacific,Seoul,72 ms,4424 kB/s
+168.138.47.238,8443,false,KIX,Asia Pacific,Osaka,193 ms,3582 kB/s
+130.61.171.71,80,false,FRA,Europe,Frankfurt,303 ms,3216 kB/s
+146.56.133.140,2096,false,ICN,Asia Pacific,Seoul,90 ms,2997 kB/s
+89.168.122.44,80,false,FRA,Europe,Frankfurt,265 ms,2720 kB/s
+146.56.133.140,2083,false,ICN,Asia Pacific,Seoul,97 ms,1196 kB/s
+193.123.233.143,2083,false,ICN,Asia Pacific,Seoul,73 ms,456 kB/s
+144.24.76.213,2052,false,ICN,Asia Pacific,Seoul,143 ms,88 kB/s
+158.179.164.17,2052,false,ICN,Asia Pacific,Seoul,147 ms,0 kB/s
