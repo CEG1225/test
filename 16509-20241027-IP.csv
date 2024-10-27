@@ -1,20 +1,26 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-13.209.166.73,80,false,ICN,Asia Pacific,Seoul,235 ms,26648 kB/s
-3.68.31.54,80,false,FRA,Europe,Frankfurt,166 ms,11911 kB/s
-18.185.254.189,80,false,FRA,Europe,Frankfurt,161 ms,10032 kB/s
-18.156.209.101,80,false,FRA,Europe,Frankfurt,172 ms,8768 kB/s
-51.17.192.69,443,false,MXP,Europe,Milan,228 ms,5109 kB/s
-3.141.95.66,80,false,IAD,North America,Ashburn,245 ms,4517 kB/s
-18.159.105.97,80,false,FRA,Europe,Frankfurt,172 ms,3704 kB/s
-3.6.136.68,80,false,BOM,Asia Pacific,Mumbai,307 ms,2653 kB/s
-51.17.192.69,80,false,MXP,Europe,Milan,234 ms,1654 kB/s
-3.66.115.225,80,false,FRA,Europe,Frankfurt,158 ms,653 kB/s
-18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,79 ms,171 kB/s
-54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,83 ms,153 kB/s
-35.167.93.200,443,false,SEA,North America,Seattle,203 ms,0 kB/s
-204.110.223.40,80,false,IAD,North America,Ashburn,253 ms,0 kB/s
-3.101.110.90,80,false,SJC,North America,San Jose,199 ms,0 kB/s
-204.110.221.77,80,false,SEA,North America,Seattle,202 ms,0 kB/s
-204.110.223.177,80,false,IAD,North America,Ashburn,256 ms,0 kB/s
-204.110.221.48,80,false,SEA,North America,Seattle,202 ms,0 kB/s
-3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,300 ms,0 kB/s
+3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,83 ms,21683 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,107 ms,9199 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,203 ms,8382 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,196 ms,8030 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,184 ms,6019 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,177 ms,5839 kB/s
+204.110.223.40,80,true,IAD,North America,Ashburn,253 ms,5102 kB/s
+204.110.223.177,80,true,IAD,North America,Ashburn,250 ms,3747 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,192 ms,3064 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,198 ms,2156 kB/s
+35.167.93.200,443,true,SEA,North America,Seattle,204 ms,1543 kB/s
+204.110.221.48,80,true,SEA,North America,Seattle,206 ms,1404 kB/s
+43.206.192.211,443,true,NRT,Asia Pacific,Tokyo,84 ms,940 kB/s
+13.229.159.215,443,true,SIN,Asia Pacific,Singapore,116 ms,336 kB/s
+13.41.203.20,8080,true,LHR,Europe,London,179 ms,323 kB/s
+15.157.7.168,443,true,YUL,North America,Montréal,286 ms,208 kB/s
+3.99.106.179,443,true,YUL,North America,Montréal,259 ms,147 kB/s
+18.135.67.188,443,true,LHR,Europe,London,185 ms,102 kB/s
+18.189.94.250,443,true,IAD,North America,Ashburn,239 ms,86 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,300 ms,83 kB/s
+44.226.147.29,443,true,SEA,North America,Seattle,221 ms,83 kB/s
+13.233.5.49,443,true,BOM,Asia Pacific,Mumbai,298 ms,61 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,215 ms,0 kB/s
+44.227.22.10,443,true,SEA,North America,Seattle,225 ms,0 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,195 ms,0 kB/s
