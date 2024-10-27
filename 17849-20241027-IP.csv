@@ -1,4 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-117.123.31.2,40006,false,ICN,Asia Pacific,Seoul,87 ms,3639 kB/s
-117.123.31.2,40012,false,ICN,Asia Pacific,Seoul,85 ms,2928 kB/s
-117.123.31.2,40007,false,ICN,Asia Pacific,Seoul,88 ms,1833 kB/s
+117.123.31.2,40007,false,ICN,Asia Pacific,Seoul,68 ms,4146 kB/s
+117.123.31.2,40006,false,ICN,Asia Pacific,Seoul,86 ms,2890 kB/s
+117.123.31.2,40012,false,ICN,Asia Pacific,Seoul,95 ms,1939 kB/s
