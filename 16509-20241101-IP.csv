@@ -1,0 +1,21 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.209.166.73,80,false,ICN,Asia Pacific,Seoul,239 ms,21781 kB/s
+3.68.31.54,80,false,FRA,Europe,Frankfurt,170 ms,10801 kB/s
+3.66.115.225,80,false,FRA,Europe,Frankfurt,219 ms,10171 kB/s
+18.159.105.97,80,false,FRA,Europe,Frankfurt,165 ms,7304 kB/s
+18.185.254.189,80,false,FRA,Europe,Frankfurt,180 ms,6712 kB/s
+18.156.209.101,80,false,FRA,Europe,Frankfurt,159 ms,5829 kB/s
+51.17.192.69,443,false,MXP,Europe,Milan,215 ms,1003 kB/s
+51.17.192.69,80,false,MRS,Europe,Marseille,228 ms,1003 kB/s
+3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,299 ms,894 kB/s
+3.6.136.68,80,false,BOM,Asia Pacific,Mumbai,291 ms,322 kB/s
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,83 ms,127 kB/s
+18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,77 ms,120 kB/s
+35.167.93.200,443,false,SEA,North America,Seattle,225 ms,0 kB/s
+204.110.223.86,80,false,CMH,North America,Columbus,228 ms,0 kB/s
+204.110.221.170,80,false,YUL,North America,Montréal,279 ms,0 kB/s
+204.110.221.78,80,false,YUL,North America,Montréal,260 ms,0 kB/s
+204.110.221.69,80,false,YUL,North America,Montréal,268 ms,0 kB/s
+204.110.221.174,80,false,YUL,North America,Montréal,279 ms,0 kB/s
+3.101.110.90,80,false,SJC,North America,San Jose,171 ms,0 kB/s
+204.110.220.189,80,false,SJC,North America,San Jose,182 ms,0 kB/s
