@@ -1,0 +1,79 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+8.219.166.34,443,443,true,SIN,Asia Pacific,SG,Singapore,334,1.70
+8.222.248.109,443,443,true,SIN,Asia Pacific,SG,Singapore,256,1.66
+8.222.226.253,443,443,true,SIN,Asia Pacific,SG,Singapore,226,1.61
+8.222.186.106,443,443,true,SIN,Asia Pacific,SG,Singapore,268,1.59
+8.219.73.174,443,443,true,SIN,Asia Pacific,SG,Singapore,327,1.55
+8.222.200.181,443,443,true,SIN,Asia Pacific,SG,Singapore,267,1.41
+8.222.255.79,443,443,true,SIN,Asia Pacific,SG,Singapore,237,1.40
+8.222.222.233,443,443,true,SIN,Asia Pacific,SG,Singapore,226,1.39
+8.222.186.74,443,443,true,SIN,Asia Pacific,SG,Singapore,296,1.38
+8.222.208.155,443,443,true,SIN,Asia Pacific,SG,Singapore,233,1.36
+8.222.176.136,443,443,true,SIN,Asia Pacific,SG,Singapore,224,1.31
+8.222.230.211,443,443,true,SIN,Asia Pacific,SG,Singapore,230,1.26
+8.219.64.235,443,443,true,SIN,Asia Pacific,SG,Singapore,333,1.25
+8.219.64.227,443,443,true,SIN,Asia Pacific,SG,Singapore,362,1.20
+8.222.211.129,443,443,true,SIN,Asia Pacific,SG,Singapore,268,1.15
+8.219.193.182,443,443,true,SIN,Asia Pacific,SG,Singapore,256,1.10
+47.83.18.47,443,443,true,HKG,Asia Pacific,HK,Hong Kong,291,1.09
+47.83.18.47,443,443,true,HKG,Asia Pacific,HK,Hong Kong,268,1.08
+8.222.241.151,443,443,true,SIN,Asia Pacific,SG,Singapore,296,1.07
+8.219.126.83,443,443,true,SIN,Asia Pacific,SG,Singapore,275,1.07
+8.210.65.243,8443,443,true,HKG,Asia Pacific,HK,Hong Kong,224,1.05
+8.219.145.62,443,443,true,SIN,Asia Pacific,SG,Singapore,249,1.03
+8.222.226.253,443,443,true,SIN,Asia Pacific,SG,Singapore,217,0.98
+8.222.205.159,443,443,true,SIN,Asia Pacific,SG,Singapore,240,0.90
+8.222.255.79,443,443,true,SIN,Asia Pacific,SG,Singapore,248,0.85
+8.222.230.150,443,443,true,SIN,Asia Pacific,SG,Singapore,226,0.82
+8.222.253.9,443,443,true,SIN,Asia Pacific,SG,Singapore,255,0.77
+8.222.230.218,443,443,true,SIN,Asia Pacific,SG,Singapore,279,0.77
+8.222.189.196,443,443,true,SIN,Asia Pacific,SG,Singapore,238,0.75
+8.222.222.233,443,443,true,SIN,Asia Pacific,SG,Singapore,209,0.69
+47.89.244.253,443,443,true,SJC,North America,US,San Jose,286,0.66
+8.222.214.209,443,443,true,SIN,Asia Pacific,SG,Singapore,218,0.64
+8.222.205.159,443,443,true,SIN,Asia Pacific,SG,Singapore,214,0.63
+8.222.230.218,443,443,true,SIN,Asia Pacific,SG,Singapore,226,0.63
+8.222.176.136,443,443,true,SIN,Asia Pacific,SG,Singapore,271,0.61
+8.219.164.199,443,443,true,SIN,Asia Pacific,SG,Singapore,286,0.58
+8.222.189.196,443,443,true,SIN,Asia Pacific,SG,Singapore,71,0.48
+149.129.8.215,443,443,true,SJC,North America,US,San Jose,370,0.46
+8.219.132.29,443,443,true,SIN,Asia Pacific,SG,Singapore,278,0.40
+149.129.8.215,443,443,true,SJC,North America,US,San Jose,336,0.38
+8.222.253.9,443,443,true,SIN,Asia Pacific,SG,Singapore,53,0.35
+47.245.123.26,443,443,true,SIN,Asia Pacific,SG,Singapore,267,0.25
+149.129.250.187,443,443,true,SIN,Asia Pacific,SG,Singapore,192,0.21
+47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,300,0.15
+47.236.181.185,8443,443,true,SIN,Asia Pacific,SG,Singapore,230,0.15
+47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,189,0.15
+47.57.13.107,443,443,true,HKG,Asia Pacific,HK,Hong Kong,122,0.14
+8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,251,0.13
+149.129.250.187,443,443,true,SIN,Asia Pacific,SG,Singapore,218,0.13
+8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,62,0.12
+47.57.14.118,443,443,true,SJC,North America,US,San Jose,284,0.10
+47.254.65.110,443,443,true,SJC,North America,US,San Jose,355,0.07
+47.254.65.110,443,443,true,SJC,North America,US,San Jose,191,0.07
+47.80.3.26,443,443,true,ICN,Asia Pacific,KR,Seoul,295,0.05
+8.219.1.25,8443,443,true,SIN,Asia Pacific,SG,Singapore,189,0.04
+47.57.14.118,443,443,true,SJC,North America,US,San Jose,265,0.04
+8.219.157.78,443,443,true,SIN,Asia Pacific,SG,Singapore,194,0.04
+8.219.145.62,443,443,true,SIN,Asia Pacific,SG,Singapore,233,0.00
+47.83.234.54,443,443,true,HKG,Asia Pacific,HK,Hong Kong,260,0.00
+47.243.236.86,443,443,true,HKG,Asia Pacific,HK,Hong Kong,215,0.00
+47.74.155.26,80,80,false,SIN,Asia Pacific,SG,Singapore,38,0.00
+47.57.233.126,80,80,false,SJC,North America,US,San Jose,56,0.00
+8.212.41.98,80,80,false,SIN,Asia Pacific,SG,Singapore,99,0.00
+47.239.28.220,80,80,false,SJC,North America,US,San Jose,115,0.00
+47.74.155.26,80,80,false,SIN,Asia Pacific,SG,Singapore,130,0.00
+47.57.14.118,80,80,false,SJC,North America,US,San Jose,143,0.00
+47.243.237.160,8080,8080,false,HKG,Asia Pacific,HK,Hong Kong,146,0.00
+47.57.14.118,80,80,false,SJC,North America,US,San Jose,149,0.00
+8.219.77.141,80,80,false,SJC,North America,US,San Jose,150,0.00
+8.212.41.98,8080,8080,false,SJC,North America,US,San Jose,150,0.00
+8.212.12.98,80,80,false,HKG,Asia Pacific,HK,Hong Kong,155,0.00
+47.57.13.107,80,80,false,HKG,Asia Pacific,HK,Hong Kong,166,0.00
+47.57.13.107,80,80,false,HKG,Asia Pacific,HK,Hong Kong,170,0.00
+47.243.10.94,8880,8880,false,HKG,Asia Pacific,HK,Hong Kong,181,0.00
+8.219.97.248,80,80,false,SIN,Asia Pacific,SG,Singapore,182,0.00
+8.210.173.151,80,80,false,HKG,Asia Pacific,HK,Hong Kong,204,0.00
+149.129.8.215,80,80,false,SJC,North America,US,San Jose,234,0.00
+149.129.8.215,80,80,false,SJC,North America,US,San Jose,236,0.00
